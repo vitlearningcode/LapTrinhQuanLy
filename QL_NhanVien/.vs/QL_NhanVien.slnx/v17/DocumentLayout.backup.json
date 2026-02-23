@@ -1,0 +1,175 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\KenG\\QL_NhanVien\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8A05B36A-8EC9-4517-8D7F-AA4B540DD114}|PresentationLayer\\PresentationLayer.csproj|d:\\keng\\ql_nhanvien\\presentationlayer\\frm_dmnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A05B36A-8EC9-4517-8D7F-AA4B540DD114}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\frm_dmnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A05B36A-8EC9-4517-8D7F-AA4B540DD114}|PresentationLayer\\PresentationLayer.csproj|d:\\keng\\ql_nhanvien\\presentationlayer\\frm_dmnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8A05B36A-8EC9-4517-8D7F-AA4B540DD114}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\frm_dmnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A05B36A-8EC9-4517-8D7F-AA4B540DD114}|PresentationLayer\\PresentationLayer.csproj|d:\\keng\\ql_nhanvien\\presentationlayer\\frm_dmchucvu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8A05B36A-8EC9-4517-8D7F-AA4B540DD114}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\frm_dmchucvu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A05B36A-8EC9-4517-8D7F-AA4B540DD114}|PresentationLayer\\PresentationLayer.csproj|d:\\keng\\ql_nhanvien\\presentationlayer\\presentationlayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8A05B36A-8EC9-4517-8D7F-AA4B540DD114}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\presentationlayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29B21592-7D49-414E-B73E-24F2EC4E385C}|DataAccessLayer\\DataAccessLayer.csproj|d:\\keng\\ql_nhanvien\\dataaccesslayer\\chucvu_dao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29B21592-7D49-414E-B73E-24F2EC4E385C}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\chucvu_dao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29B21592-7D49-414E-B73E-24F2EC4E385C}|DataAccessLayer\\DataAccessLayer.csproj|d:\\keng\\ql_nhanvien\\dataaccesslayer\\dataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29B21592-7D49-414E-B73E-24F2EC4E385C}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\dataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E43D028-E02B-4339-B840-FEACDD7D1AAA}|DataTransferObject\\DataTransferObject.csproj|d:\\keng\\ql_nhanvien\\datatransferobject\\datatransferobject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4E43D028-E02B-4339-B840-FEACDD7D1AAA}|DataTransferObject\\DataTransferObject.csproj|solutionrelative:datatransferobject\\datatransferobject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29B21592-7D49-414E-B73E-24F2EC4E385C}|DataAccessLayer\\DataAccessLayer.csproj|d:\\keng\\ql_nhanvien\\dataaccesslayer\\dataaccesslayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{29B21592-7D49-414E-B73E-24F2EC4E385C}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\dataaccesslayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C7A9A10-E9FE-4695-A165-0DE173DD38E8}|BusinessLogicLayer\\BusinessLogicLayer.csproj|d:\\keng\\ql_nhanvien\\businesslogiclayer\\businesslogiclayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2C7A9A10-E9FE-4695-A165-0DE173DD38E8}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\businesslogiclayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:413422886:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frm_dmNhanVien.cs",
+              "DocumentMoniker": "D:\\KenG\\QL_NhanVien\\PresentationLayer\\frm_dmNhanVien.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\frm_dmNhanVien.cs",
+              "ToolTip": "D:\\KenG\\QL_NhanVien\\PresentationLayer\\frm_dmNhanVien.cs*",
+              "RelativeToolTip": "PresentationLayer\\frm_dmNhanVien.cs*",
+              "ViewState": "AgIAAAwAAAAAAAAAAIA8wB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T04:58:25.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frm_dmNhanVien.cs [Design]",
+              "DocumentMoniker": "D:\\KenG\\QL_NhanVien\\PresentationLayer\\frm_dmNhanVien.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\frm_dmNhanVien.cs",
+              "ToolTip": "D:\\KenG\\QL_NhanVien\\PresentationLayer\\frm_dmNhanVien.cs [Design]*",
+              "RelativeToolTip": "PresentationLayer\\frm_dmNhanVien.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T04:58:15.663Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frm_dmChucVu.cs [Design]",
+              "DocumentMoniker": "D:\\KenG\\QL_NhanVien\\PresentationLayer\\frm_dmChucVu.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\frm_dmChucVu.cs",
+              "ToolTip": "D:\\KenG\\QL_NhanVien\\PresentationLayer\\frm_dmChucVu.cs [Design]",
+              "RelativeToolTip": "PresentationLayer\\frm_dmChucVu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T04:54:38.749Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ChucVu_DAO.cs",
+              "DocumentMoniker": "D:\\KenG\\QL_NhanVien\\DataAccessLayer\\ChucVu_DAO.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\ChucVu_DAO.cs",
+              "ToolTip": "D:\\KenG\\QL_NhanVien\\DataAccessLayer\\ChucVu_DAO.cs",
+              "RelativeToolTip": "DataAccessLayer\\ChucVu_DAO.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T04:47:34.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DataProvider.cs",
+              "DocumentMoniker": "D:\\KenG\\QL_NhanVien\\DataAccessLayer\\DataProvider.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\DataProvider.cs",
+              "ToolTip": "D:\\KenG\\QL_NhanVien\\DataAccessLayer\\DataProvider.cs",
+              "RelativeToolTip": "DataAccessLayer\\DataProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T04:47:06.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DataTransferObject",
+              "DocumentMoniker": "D:\\KenG\\QL_NhanVien\\DataTransferObject\\DataTransferObject.csproj",
+              "RelativeDocumentMoniker": "DataTransferObject\\DataTransferObject.csproj",
+              "ToolTip": "D:\\KenG\\QL_NhanVien\\DataTransferObject\\DataTransferObject.csproj",
+              "RelativeToolTip": "DataTransferObject\\DataTransferObject.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-23T04:46:48.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DataAccessLayer",
+              "DocumentMoniker": "D:\\KenG\\QL_NhanVien\\DataAccessLayer\\DataAccessLayer.csproj",
+              "RelativeDocumentMoniker": "DataAccessLayer\\DataAccessLayer.csproj",
+              "ToolTip": "D:\\KenG\\QL_NhanVien\\DataAccessLayer\\DataAccessLayer.csproj",
+              "RelativeToolTip": "DataAccessLayer\\DataAccessLayer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-23T04:46:44.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BusinessLogicLayer",
+              "DocumentMoniker": "D:\\KenG\\QL_NhanVien\\BusinessLogicLayer\\BusinessLogicLayer.csproj",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\BusinessLogicLayer.csproj",
+              "ToolTip": "D:\\KenG\\QL_NhanVien\\BusinessLogicLayer\\BusinessLogicLayer.csproj",
+              "RelativeToolTip": "BusinessLogicLayer\\BusinessLogicLayer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-23T04:46:31.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PresentationLayer",
+              "DocumentMoniker": "D:\\KenG\\QL_NhanVien\\PresentationLayer\\PresentationLayer.csproj",
+              "RelativeDocumentMoniker": "PresentationLayer\\PresentationLayer.csproj",
+              "ToolTip": "D:\\KenG\\QL_NhanVien\\PresentationLayer\\PresentationLayer.csproj",
+              "RelativeToolTip": "PresentationLayer\\PresentationLayer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-23T04:42:22.811Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

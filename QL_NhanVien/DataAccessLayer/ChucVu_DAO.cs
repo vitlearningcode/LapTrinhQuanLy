@@ -23,9 +23,9 @@ namespace DataAccessLayer
             for (int i = 0; i < dt.Rows.Count; i++)
             {
                 ChucVu_DTO cv = new ChucVu_DTO();
-                cv.SMaCV = dt.Rows[i]["MaChucVu"].ToString();
-                cv.STenCV = dt.Rows[i]["TenChucVu"].ToString();
-                cv.FHSPhuCap = float.Parse(dt.Rows[i]["HSPhuCap"].ToString());
+                cv.SMaCV = dt.Rows[i]["macv"].ToString();
+                cv.STenCV = dt.Rows[i]["tencv"].ToString();
+                cv.FHSPhuCap = float.Parse(dt.Rows[i]["hsphucap"].ToString());
                 lstChucVu.Add(cv);
             }
             return lstChucVu;

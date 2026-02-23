@@ -1,0 +1,16 @@
+D:\KenG\QL_NhanVien\DataAccessLayer\obj\Debug\net8.0-windows\DataAccessLayer.csproj.AssemblyReference.cache
+D:\KenG\QL_NhanVien\DataAccessLayer\obj\Debug\net8.0-windows\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\KenG\QL_NhanVien\DataAccessLayer\obj\Debug\net8.0-windows\DataAccessLayer.AssemblyInfoInputs.cache
+D:\KenG\QL_NhanVien\DataAccessLayer\obj\Debug\net8.0-windows\DataAccessLayer.AssemblyInfo.cs
+D:\KenG\QL_NhanVien\DataAccessLayer\obj\Debug\net8.0-windows\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\KenG\QL_NhanVien\DataAccessLayer\obj\Debug\net8.0-windows\DataAccessLayer.sourcelink.json
+D:\KenG\QL_NhanVien\DataAccessLayer\bin\Debug\net8.0-windows\DataAccessLayer.deps.json
+D:\KenG\QL_NhanVien\DataAccessLayer\bin\Debug\net8.0-windows\DataAccessLayer.dll
+D:\KenG\QL_NhanVien\DataAccessLayer\bin\Debug\net8.0-windows\DataAccessLayer.pdb
+D:\KenG\QL_NhanVien\DataAccessLayer\bin\Debug\net8.0-windows\DataTransferObject.dll
+D:\KenG\QL_NhanVien\DataAccessLayer\bin\Debug\net8.0-windows\DataTransferObject.pdb
+D:\KenG\QL_NhanVien\DataAccessLayer\obj\Debug\net8.0-windows\DataAcce.E67BD773.Up2Date
+D:\KenG\QL_NhanVien\DataAccessLayer\obj\Debug\net8.0-windows\DataAccessLayer.dll
+D:\KenG\QL_NhanVien\DataAccessLayer\obj\Debug\net8.0-windows\refint\DataAccessLayer.dll
+D:\KenG\QL_NhanVien\DataAccessLayer\obj\Debug\net8.0-windows\DataAccessLayer.pdb
+D:\KenG\QL_NhanVien\DataAccessLayer\obj\Debug\net8.0-windows\ref\DataAccessLayer.dll

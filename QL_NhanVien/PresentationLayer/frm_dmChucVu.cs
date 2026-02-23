@@ -21,7 +21,12 @@ namespace PresentationLayer
         private void frm_dmChucVu_Load(object sender, EventArgs e)
         {
             List <ChucVu_DTO> lstChucVu = ChucVu_BUS.LayChucVu();
-            dgDSChucVu.DataSource = lstChucVu;   
+            dgDSChucVu.DataSource = lstChucVu;
+
+            dgDSChucVu.Columns["SMaCV"].HeaderText = "Ma CV";
+            dgDSChucVu.Columns["STenCV"].HeaderText = "Ten CV";
+
+            ///
         }
     }
 }

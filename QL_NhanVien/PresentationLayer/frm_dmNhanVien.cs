@@ -25,6 +25,7 @@ namespace PresentationLayer
 
             //displaymember là thuộc tính của cbo, nó sẽ hiển thị ên chức vụ thay vì mã chức dụ
             cboChucVu.DisplayMember = "STenCV";
+
             //valuemember là thuộc tính của cbo, nó sẽ lấy giá trị mã chức vụ để uu vào db
             cboChucVu.ValueMember = "SMaCV";
 
