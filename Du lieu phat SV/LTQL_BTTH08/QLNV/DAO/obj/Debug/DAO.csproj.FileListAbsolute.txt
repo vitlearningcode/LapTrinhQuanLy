@@ -1,0 +1,56 @@
+E:\Vi\2015\LTQL\BTTH\B3\BaiMau\LTQL_B3\DAO\bin\Debug\DAO.dll
+E:\Vi\2015\LTQL\BTTH\B3\BaiMau\LTQL_B3\DAO\bin\Debug\DAO.pdb
+E:\Vi\2015\LTQL\BTTH\B3\BaiMau\LTQL_B3\DAO\bin\Debug\DTO.dll
+E:\Vi\2015\LTQL\BTTH\B3\BaiMau\LTQL_B3\DAO\bin\Debug\DTO.pdb
+E:\Vi\2015\LTQL\BTTH\B3\BaiMau\LTQL_B3\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+E:\Vi\2015\LTQL\BTTH\B3\BaiMau\LTQL_B3\DAO\obj\Debug\DAO.dll
+E:\Vi\2015\LTQL\BTTH\B3\BaiMau\LTQL_B3\DAO\obj\Debug\DAO.pdb
+E:\Vi\2015\LTQL\BTTH\B4\DAO\bin\Debug\DAO.dll
+E:\Vi\2015\LTQL\BTTH\B4\DAO\bin\Debug\DAO.pdb
+E:\Vi\2015\LTQL\BTTH\B4\DAO\bin\Debug\DTO.dll
+E:\Vi\2015\LTQL\BTTH\B4\DAO\bin\Debug\DTO.pdb
+E:\Vi\2015\LTQL\BTTH\B4\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+E:\Vi\2015\LTQL\BTTH\B4\DAO\obj\Debug\DAO.dll
+E:\Vi\2015\LTQL\BTTH\B4\DAO\obj\Debug\DAO.pdb
+E:\Vi\2015\LTQL\BTTH\B5\DAO\bin\Debug\DAO.dll
+E:\Vi\2015\LTQL\BTTH\B5\DAO\bin\Debug\DAO.pdb
+E:\Vi\2015\LTQL\BTTH\B5\DAO\bin\Debug\DTO.dll
+E:\Vi\2015\LTQL\BTTH\B5\DAO\bin\Debug\DTO.pdb
+E:\Vi\2015\LTQL\BTTH\B5\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+E:\Vi\2015\LTQL\BTTH\B5\DAO\obj\Debug\DAO.dll
+E:\Vi\2015\LTQL\BTTH\B5\DAO\obj\Debug\DAO.pdb
+E:\Vi\2015\LTQL\BTTH\B6\DAO\bin\Debug\DAO.dll
+E:\Vi\2015\LTQL\BTTH\B6\DAO\bin\Debug\DAO.pdb
+E:\Vi\2015\LTQL\BTTH\B6\DAO\bin\Debug\DTO.dll
+E:\Vi\2015\LTQL\BTTH\B6\DAO\bin\Debug\DTO.pdb
+E:\Vi\2015\LTQL\BTTH\B6\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+E:\Vi\2015\LTQL\BTTH\B6\DAO\obj\Debug\DAO.dll
+E:\Vi\2015\LTQL\BTTH\B6\DAO\obj\Debug\DAO.pdb
+E:\Vi\2015\LTQL\BTTH\B6_mau\DAO\bin\Debug\DAO.dll
+E:\Vi\2015\LTQL\BTTH\B6_mau\DAO\bin\Debug\DAO.pdb
+E:\Vi\2015\LTQL\BTTH\B6_mau\DAO\bin\Debug\DTO.dll
+E:\Vi\2015\LTQL\BTTH\B6_mau\DAO\bin\Debug\DTO.pdb
+E:\Vi\2015\LTQL\BTTH\B6_mau\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+E:\Vi\2015\LTQL\BTTH\B6_mau\DAO\obj\Debug\DAO.dll
+E:\Vi\2015\LTQL\BTTH\B6_mau\DAO\obj\Debug\DAO.pdb
+C:\Users\Vi\Desktop\Soan B7\B7_mau_P2\DAO\bin\Debug\DAO.dll
+C:\Users\Vi\Desktop\Soan B7\B7_mau_P2\DAO\bin\Debug\DAO.pdb
+C:\Users\Vi\Desktop\Soan B7\B7_mau_P2\DAO\bin\Debug\DTO.dll
+C:\Users\Vi\Desktop\Soan B7\B7_mau_P2\DAO\bin\Debug\DTO.pdb
+C:\Users\Vi\Desktop\Soan B7\B7_mau_P2\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+C:\Users\Vi\Desktop\Soan B7\B7_mau_P2\DAO\obj\Debug\DAO.dll
+C:\Users\Vi\Desktop\Soan B7\B7_mau_P2\DAO\obj\Debug\DAO.pdb
+C:\Users\SinhVien\Downloads\Soan B7_22-03-17\B7_mau_P3\DAO\bin\Debug\DAO.dll
+C:\Users\SinhVien\Downloads\Soan B7_22-03-17\B7_mau_P3\DAO\bin\Debug\DAO.pdb
+C:\Users\SinhVien\Downloads\Soan B7_22-03-17\B7_mau_P3\DAO\bin\Debug\DTO.dll
+C:\Users\SinhVien\Downloads\Soan B7_22-03-17\B7_mau_P3\DAO\bin\Debug\DTO.pdb
+C:\Users\SinhVien\Downloads\Soan B7_22-03-17\B7_mau_P3\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+C:\Users\SinhVien\Downloads\Soan B7_22-03-17\B7_mau_P3\DAO\obj\Debug\DAO.dll
+C:\Users\SinhVien\Downloads\Soan B7_22-03-17\B7_mau_P3\DAO\obj\Debug\DAO.pdb
+E:\Vi\2016\LTQL\Thuc hanh LTQL\LTQL_BTTH08\LTQL_BTTH08\QLNV\DAO\bin\Debug\DAO.dll
+E:\Vi\2016\LTQL\Thuc hanh LTQL\LTQL_BTTH08\LTQL_BTTH08\QLNV\DAO\bin\Debug\DAO.pdb
+E:\Vi\2016\LTQL\Thuc hanh LTQL\LTQL_BTTH08\LTQL_BTTH08\QLNV\DAO\bin\Debug\DTO.dll
+E:\Vi\2016\LTQL\Thuc hanh LTQL\LTQL_BTTH08\LTQL_BTTH08\QLNV\DAO\bin\Debug\DTO.pdb
+E:\Vi\2016\LTQL\Thuc hanh LTQL\LTQL_BTTH08\LTQL_BTTH08\QLNV\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+E:\Vi\2016\LTQL\Thuc hanh LTQL\LTQL_BTTH08\LTQL_BTTH08\QLNV\DAO\obj\Debug\DAO.dll
+E:\Vi\2016\LTQL\Thuc hanh LTQL\LTQL_BTTH08\LTQL_BTTH08\QLNV\DAO\obj\Debug\DAO.pdb

@@ -1,0 +1,95 @@
+E:\Vi\2015\LTQL\BTTH\B3\Test\GUI\bin\Debug\GUI.exe.config
+E:\Vi\2015\LTQL\BTTH\B3\BaiMau\LTQL_B3\GUI\bin\Debug\GUI.exe.config
+E:\Vi\2015\LTQL\BTTH\B3\BaiMau\LTQL_B3\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+E:\Vi\2015\LTQL\BTTH\B3\BaiMau\LTQL_B3\GUI\obj\Debug\GUI.frmMain.resources
+E:\Vi\2015\LTQL\BTTH\B3\BaiMau\LTQL_B3\GUI\obj\Debug\GUI.frm_dmChucVu.resources
+E:\Vi\2015\LTQL\BTTH\B3\BaiMau\LTQL_B3\GUI\obj\Debug\GUI.frm_dmNhanVien.resources
+E:\Vi\2015\LTQL\BTTH\B3\BaiMau\LTQL_B3\GUI\obj\Debug\GUI.Properties.Resources.resources
+E:\Vi\2015\LTQL\BTTH\B3\BaiMau\LTQL_B3\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+E:\Vi\2015\LTQL\BTTH\B3\BaiMau\LTQL_B3\GUI\bin\Debug\GUI.exe
+E:\Vi\2015\LTQL\BTTH\B3\BaiMau\LTQL_B3\GUI\bin\Debug\GUI.pdb
+E:\Vi\2015\LTQL\BTTH\B3\BaiMau\LTQL_B3\GUI\bin\Debug\BUS.dll
+E:\Vi\2015\LTQL\BTTH\B3\BaiMau\LTQL_B3\GUI\bin\Debug\DTO.dll
+E:\Vi\2015\LTQL\BTTH\B3\BaiMau\LTQL_B3\GUI\bin\Debug\DAO.dll
+E:\Vi\2015\LTQL\BTTH\B3\BaiMau\LTQL_B3\GUI\bin\Debug\BUS.pdb
+E:\Vi\2015\LTQL\BTTH\B3\BaiMau\LTQL_B3\GUI\bin\Debug\DTO.pdb
+E:\Vi\2015\LTQL\BTTH\B3\BaiMau\LTQL_B3\GUI\bin\Debug\DAO.pdb
+E:\Vi\2015\LTQL\BTTH\B3\BaiMau\LTQL_B3\GUI\obj\Debug\GUI.exe
+E:\Vi\2015\LTQL\BTTH\B3\BaiMau\LTQL_B3\GUI\obj\Debug\GUI.pdb
+E:\Vi\2015\LTQL\BTTH\B4\GUI\bin\Debug\GUI.exe.config
+E:\Vi\2015\LTQL\BTTH\B4\GUI\obj\Debug\GUI.exe
+E:\Vi\2015\LTQL\BTTH\B4\GUI\obj\Debug\GUI.pdb
+E:\Vi\2015\LTQL\BTTH\B4\GUI\bin\Debug\GUI.exe
+E:\Vi\2015\LTQL\BTTH\B4\GUI\bin\Debug\GUI.pdb
+E:\Vi\2015\LTQL\BTTH\B4\GUI\bin\Debug\BUS.dll
+E:\Vi\2015\LTQL\BTTH\B4\GUI\bin\Debug\DTO.dll
+E:\Vi\2015\LTQL\BTTH\B4\GUI\bin\Debug\DAO.dll
+E:\Vi\2015\LTQL\BTTH\B4\GUI\bin\Debug\BUS.pdb
+E:\Vi\2015\LTQL\BTTH\B4\GUI\bin\Debug\DTO.pdb
+E:\Vi\2015\LTQL\BTTH\B4\GUI\bin\Debug\DAO.pdb
+E:\Vi\2015\LTQL\BTTH\B4\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+E:\Vi\2015\LTQL\BTTH\B4\GUI\obj\Debug\GUI.frmMain.resources
+E:\Vi\2015\LTQL\BTTH\B4\GUI\obj\Debug\GUI.frm_dmChucVu.resources
+E:\Vi\2015\LTQL\BTTH\B4\GUI\obj\Debug\GUI.frm_dmNhanVien.resources
+E:\Vi\2015\LTQL\BTTH\B4\GUI\obj\Debug\GUI.Properties.Resources.resources
+E:\Vi\2015\LTQL\BTTH\B4\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+E:\Vi\2015\LTQL\BTTH\B5\GUI\bin\Debug\GUI.exe.config
+E:\Vi\2015\LTQL\BTTH\B5\GUI\obj\Debug\GUI.exe
+E:\Vi\2015\LTQL\BTTH\B5\GUI\obj\Debug\GUI.pdb
+E:\Vi\2015\LTQL\BTTH\B5\GUI\bin\Debug\GUI.exe
+E:\Vi\2015\LTQL\BTTH\B5\GUI\bin\Debug\GUI.pdb
+E:\Vi\2015\LTQL\BTTH\B5\GUI\bin\Debug\BUS.dll
+E:\Vi\2015\LTQL\BTTH\B5\GUI\bin\Debug\DTO.dll
+E:\Vi\2015\LTQL\BTTH\B5\GUI\bin\Debug\DAO.dll
+E:\Vi\2015\LTQL\BTTH\B5\GUI\bin\Debug\BUS.pdb
+E:\Vi\2015\LTQL\BTTH\B5\GUI\bin\Debug\DTO.pdb
+E:\Vi\2015\LTQL\BTTH\B5\GUI\bin\Debug\DAO.pdb
+E:\Vi\2015\LTQL\BTTH\B5\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+E:\Vi\2015\LTQL\BTTH\B5\GUI\obj\Debug\GUI.Form1.resources
+E:\Vi\2015\LTQL\BTTH\B5\GUI\obj\Debug\GUI.frmMain.resources
+E:\Vi\2015\LTQL\BTTH\B5\GUI\obj\Debug\GUI.frm_dmChucVu.resources
+E:\Vi\2015\LTQL\BTTH\B5\GUI\obj\Debug\GUI.frm_dmNhanVien.resources
+E:\Vi\2015\LTQL\BTTH\B5\GUI\obj\Debug\GUI.Properties.Resources.resources
+E:\Vi\2015\LTQL\BTTH\B5\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+E:\Vi\2015\LTQL\BTTH\B5\GUI\obj\Debug\RdlCompile.cache
+E:\Vi\2015\LTQL\BTTH\B5\GUI\obj\Debug\RdlCompile.compiled
+E:\Vi\2015\LTQL\BTTH\B5\GUI\obj\Debug\GUI.frm_nvQuaTrinhLuong.resources
+E:\Vi\2015\LTQL\BTTH\B5_mau\GUI\bin\Debug\GUI.exe.config
+E:\Vi\2015\LTQL\BTTH\B5_mau\GUI\obj\Debug\GUI.exe
+E:\Vi\2015\LTQL\BTTH\B5_mau\GUI\obj\Debug\GUI.pdb
+E:\Vi\2015\LTQL\BTTH\B5_mau\GUI\bin\Debug\GUI.exe
+E:\Vi\2015\LTQL\BTTH\B5_mau\GUI\bin\Debug\GUI.pdb
+E:\Vi\2015\LTQL\BTTH\B5_mau\GUI\bin\Debug\BUS.dll
+E:\Vi\2015\LTQL\BTTH\B5_mau\GUI\bin\Debug\DTO.dll
+E:\Vi\2015\LTQL\BTTH\B5_mau\GUI\bin\Debug\DAO.dll
+E:\Vi\2015\LTQL\BTTH\B5_mau\GUI\bin\Debug\BUS.pdb
+E:\Vi\2015\LTQL\BTTH\B5_mau\GUI\bin\Debug\DTO.pdb
+E:\Vi\2015\LTQL\BTTH\B5_mau\GUI\bin\Debug\DAO.pdb
+E:\Vi\2015\LTQL\BTTH\B5_mau\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+E:\Vi\2015\LTQL\BTTH\B5_mau\GUI\obj\Debug\GUI.frmMain.resources
+E:\Vi\2015\LTQL\BTTH\B5_mau\GUI\obj\Debug\GUI.frm_dmChucVu.resources
+E:\Vi\2015\LTQL\BTTH\B5_mau\GUI\obj\Debug\GUI.frm_dmNhanVien.resources
+E:\Vi\2015\LTQL\BTTH\B5_mau\GUI\obj\Debug\GUI.frm_nvQuaTrinhLuong.resources
+E:\Vi\2015\LTQL\BTTH\B5_mau\GUI\obj\Debug\GUI.Properties.Resources.resources
+E:\Vi\2015\LTQL\BTTH\B5_mau\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+E:\Truyen\Mon hoc\Lap trinh quan ly\LTQL_ThucHanh_2018\Du lieu phat SV\LTQL_BTTH06\GUI\bin\Debug\GUI.exe.config
+E:\Truyen\Mon hoc\Lap trinh quan ly\LTQL_ThucHanh_2018\Du lieu phat SV\LTQL_BTTH06\GUI\obj\Debug\GUI.exe
+E:\Truyen\Mon hoc\Lap trinh quan ly\LTQL_ThucHanh_2018\Du lieu phat SV\LTQL_BTTH06\GUI\obj\Debug\GUI.pdb
+E:\Truyen\Mon hoc\Lap trinh quan ly\LTQL_ThucHanh_2018\Du lieu phat SV\LTQL_BTTH06\GUI\bin\Debug\GUI.exe
+E:\Truyen\Mon hoc\Lap trinh quan ly\LTQL_ThucHanh_2018\Du lieu phat SV\LTQL_BTTH06\GUI\bin\Debug\GUI.pdb
+E:\Truyen\Mon hoc\Lap trinh quan ly\LTQL_ThucHanh_2018\Du lieu phat SV\LTQL_BTTH06\GUI\bin\Debug\BUS.dll
+E:\Truyen\Mon hoc\Lap trinh quan ly\LTQL_ThucHanh_2018\Du lieu phat SV\LTQL_BTTH06\GUI\bin\Debug\DTO.dll
+E:\Truyen\Mon hoc\Lap trinh quan ly\LTQL_ThucHanh_2018\Du lieu phat SV\LTQL_BTTH06\GUI\bin\Debug\DAO.dll
+E:\Truyen\Mon hoc\Lap trinh quan ly\LTQL_ThucHanh_2018\Du lieu phat SV\LTQL_BTTH06\GUI\bin\Debug\BUS.pdb
+E:\Truyen\Mon hoc\Lap trinh quan ly\LTQL_ThucHanh_2018\Du lieu phat SV\LTQL_BTTH06\GUI\bin\Debug\DTO.pdb
+E:\Truyen\Mon hoc\Lap trinh quan ly\LTQL_ThucHanh_2018\Du lieu phat SV\LTQL_BTTH06\GUI\bin\Debug\DAO.pdb
+E:\Truyen\Mon hoc\Lap trinh quan ly\LTQL_ThucHanh_2018\Du lieu phat SV\LTQL_BTTH06\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+E:\Truyen\Mon hoc\Lap trinh quan ly\LTQL_ThucHanh_2018\Du lieu phat SV\LTQL_BTTH06\GUI\obj\Debug\GUI.frmMain.resources
+E:\Truyen\Mon hoc\Lap trinh quan ly\LTQL_ThucHanh_2018\Du lieu phat SV\LTQL_BTTH06\GUI\obj\Debug\GUI.frm_dmChucVu.resources
+E:\Truyen\Mon hoc\Lap trinh quan ly\LTQL_ThucHanh_2018\Du lieu phat SV\LTQL_BTTH06\GUI\obj\Debug\GUI.frm_dmNhanVien.resources
+E:\Truyen\Mon hoc\Lap trinh quan ly\LTQL_ThucHanh_2018\Du lieu phat SV\LTQL_BTTH06\GUI\obj\Debug\GUI.frm_nvQuaTrinhLuong.resources
+E:\Truyen\Mon hoc\Lap trinh quan ly\LTQL_ThucHanh_2018\Du lieu phat SV\LTQL_BTTH06\GUI\obj\Debug\GUI.Properties.Resources.resources
+E:\Truyen\Mon hoc\Lap trinh quan ly\LTQL_ThucHanh_2018\Du lieu phat SV\LTQL_BTTH06\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+E:\Truyen\Mon hoc\Lap trinh quan ly\LTQL_ThucHanh_2018\Du lieu phat SV\LTQL_BTTH06\GUI\obj\Debug\GUI.frm_bcNhanVien.resources
+E:\Truyen\Mon hoc\Lap trinh quan ly\LTQL_ThucHanh_2018\Du lieu phat SV\LTQL_BTTH06\GUI\obj\Debug\RdlCompile.cache
+E:\Truyen\Mon hoc\Lap trinh quan ly\LTQL_ThucHanh_2018\Du lieu phat SV\LTQL_BTTH06\GUI\obj\Debug\RdlCompile.compiled

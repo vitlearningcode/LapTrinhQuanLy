@@ -1,0 +1,36 @@
+E:\Vi\2015\LTQL\BTTH\B3\BaiMau\LTQL_B3\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+E:\Vi\2015\LTQL\BTTH\B3\BaiMau\LTQL_B3\BUS\bin\Debug\BUS.dll
+E:\Vi\2015\LTQL\BTTH\B3\BaiMau\LTQL_B3\BUS\bin\Debug\BUS.pdb
+E:\Vi\2015\LTQL\BTTH\B3\BaiMau\LTQL_B3\BUS\bin\Debug\DAO.dll
+E:\Vi\2015\LTQL\BTTH\B3\BaiMau\LTQL_B3\BUS\bin\Debug\DTO.dll
+E:\Vi\2015\LTQL\BTTH\B3\BaiMau\LTQL_B3\BUS\bin\Debug\DAO.pdb
+E:\Vi\2015\LTQL\BTTH\B3\BaiMau\LTQL_B3\BUS\bin\Debug\DTO.pdb
+E:\Vi\2015\LTQL\BTTH\B3\BaiMau\LTQL_B3\BUS\obj\Debug\BUS.dll
+E:\Vi\2015\LTQL\BTTH\B3\BaiMau\LTQL_B3\BUS\obj\Debug\BUS.pdb
+E:\Vi\2015\LTQL\BTTH\B4\BUS\bin\Debug\BUS.dll
+E:\Vi\2015\LTQL\BTTH\B4\BUS\bin\Debug\BUS.pdb
+E:\Vi\2015\LTQL\BTTH\B4\BUS\bin\Debug\DAO.dll
+E:\Vi\2015\LTQL\BTTH\B4\BUS\bin\Debug\DTO.dll
+E:\Vi\2015\LTQL\BTTH\B4\BUS\bin\Debug\DAO.pdb
+E:\Vi\2015\LTQL\BTTH\B4\BUS\bin\Debug\DTO.pdb
+E:\Vi\2015\LTQL\BTTH\B4\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+E:\Vi\2015\LTQL\BTTH\B4\BUS\obj\Debug\BUS.dll
+E:\Vi\2015\LTQL\BTTH\B4\BUS\obj\Debug\BUS.pdb
+E:\Vi\2015\LTQL\BTTH\B5\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+E:\Vi\2015\LTQL\BTTH\B5\BUS\obj\Debug\BUS.dll
+E:\Vi\2015\LTQL\BTTH\B5\BUS\obj\Debug\BUS.pdb
+E:\Vi\2015\LTQL\BTTH\B5\BUS\bin\Debug\BUS.dll
+E:\Vi\2015\LTQL\BTTH\B5\BUS\bin\Debug\BUS.pdb
+E:\Vi\2015\LTQL\BTTH\B5\BUS\bin\Debug\DAO.dll
+E:\Vi\2015\LTQL\BTTH\B5\BUS\bin\Debug\DTO.dll
+E:\Vi\2015\LTQL\BTTH\B5\BUS\bin\Debug\DAO.pdb
+E:\Vi\2015\LTQL\BTTH\B5\BUS\bin\Debug\DTO.pdb
+E:\Truyen\Mon hoc\Lap trinh quan ly\LTQL_ThucHanh_2018\Du lieu phat SV\LTQL_BTTH06\BUS\bin\Debug\BUS.dll
+E:\Truyen\Mon hoc\Lap trinh quan ly\LTQL_ThucHanh_2018\Du lieu phat SV\LTQL_BTTH06\BUS\bin\Debug\BUS.pdb
+E:\Truyen\Mon hoc\Lap trinh quan ly\LTQL_ThucHanh_2018\Du lieu phat SV\LTQL_BTTH06\BUS\bin\Debug\DAO.dll
+E:\Truyen\Mon hoc\Lap trinh quan ly\LTQL_ThucHanh_2018\Du lieu phat SV\LTQL_BTTH06\BUS\bin\Debug\DTO.dll
+E:\Truyen\Mon hoc\Lap trinh quan ly\LTQL_ThucHanh_2018\Du lieu phat SV\LTQL_BTTH06\BUS\bin\Debug\DAO.pdb
+E:\Truyen\Mon hoc\Lap trinh quan ly\LTQL_ThucHanh_2018\Du lieu phat SV\LTQL_BTTH06\BUS\bin\Debug\DTO.pdb
+E:\Truyen\Mon hoc\Lap trinh quan ly\LTQL_ThucHanh_2018\Du lieu phat SV\LTQL_BTTH06\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+E:\Truyen\Mon hoc\Lap trinh quan ly\LTQL_ThucHanh_2018\Du lieu phat SV\LTQL_BTTH06\BUS\obj\Debug\BUS.dll
+E:\Truyen\Mon hoc\Lap trinh quan ly\LTQL_ThucHanh_2018\Du lieu phat SV\LTQL_BTTH06\BUS\obj\Debug\BUS.pdb

@@ -1,0 +1,15 @@
+E:\Vi\2015\LTQL\BTTH\B3\BaiMau\LTQL_B3\DTO\bin\Debug\DTO.dll
+E:\Vi\2015\LTQL\BTTH\B3\BaiMau\LTQL_B3\DTO\bin\Debug\DTO.pdb
+E:\Vi\2015\LTQL\BTTH\B3\BaiMau\LTQL_B3\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+E:\Vi\2015\LTQL\BTTH\B3\BaiMau\LTQL_B3\DTO\obj\Debug\DTO.dll
+E:\Vi\2015\LTQL\BTTH\B3\BaiMau\LTQL_B3\DTO\obj\Debug\DTO.pdb
+E:\Vi\2015\LTQL\BTTH\B5\DTO\bin\Debug\DTO.dll
+E:\Vi\2015\LTQL\BTTH\B5\DTO\bin\Debug\DTO.pdb
+E:\Vi\2015\LTQL\BTTH\B5\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+E:\Vi\2015\LTQL\BTTH\B5\DTO\obj\Debug\DTO.dll
+E:\Vi\2015\LTQL\BTTH\B5\DTO\obj\Debug\DTO.pdb
+E:\Vi\2015\LTQL\BTTH\B6\DTO\bin\Debug\DTO.dll
+E:\Vi\2015\LTQL\BTTH\B6\DTO\bin\Debug\DTO.pdb
+E:\Vi\2015\LTQL\BTTH\B6\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+E:\Vi\2015\LTQL\BTTH\B6\DTO\obj\Debug\DTO.dll
+E:\Vi\2015\LTQL\BTTH\B6\DTO\obj\Debug\DTO.pdb

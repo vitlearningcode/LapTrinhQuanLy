@@ -1,0 +1,158 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\File_of_KenG\\N\u0102M 3\\Hk2\\LTQL\\QL_NhanVien\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4E43D028-E02B-4339-B840-FEACDD7D1AAA}|DataTransferObject\\DataTransferObject.csproj|d:\\file_of_keng\\n\u0103m 3\\hk2\\ltql\\ql_nhanvien\\datatransferobject\\nhanvien_dto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E43D028-E02B-4339-B840-FEACDD7D1AAA}|DataTransferObject\\DataTransferObject.csproj|solutionrelative:datatransferobject\\nhanvien_dto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A05B36A-8EC9-4517-8D7F-AA4B540DD114}|PresentationLayer\\PresentationLayer.csproj|d:\\file_of_keng\\n\u0103m 3\\hk2\\ltql\\ql_nhanvien\\presentationlayer\\frm_dmnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A05B36A-8EC9-4517-8D7F-AA4B540DD114}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\frm_dmnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A05B36A-8EC9-4517-8D7F-AA4B540DD114}|PresentationLayer\\PresentationLayer.csproj|D:\\File_of_KenG\\N\u0102M 3\\Hk2\\LTQL\\QL_NhanVien\\presentationlayer\\frm_dmnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8A05B36A-8EC9-4517-8D7F-AA4B540DD114}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\frm_dmnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29B21592-7D49-414E-B73E-24F2EC4E385C}|DataAccessLayer\\DataAccessLayer.csproj|d:\\file_of_keng\\n\u0103m 3\\hk2\\ltql\\ql_nhanvien\\dataaccesslayer\\nhanvien_dao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29B21592-7D49-414E-B73E-24F2EC4E385C}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\nhanvien_dao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A05B36A-8EC9-4517-8D7F-AA4B540DD114}|PresentationLayer\\PresentationLayer.csproj|D:\\File_of_KenG\\N\u0102M 3\\Hk2\\LTQL\\QL_NhanVien\\presentationlayer\\frm_dmchucvu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8A05B36A-8EC9-4517-8D7F-AA4B540DD114}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\frm_dmchucvu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29B21592-7D49-414E-B73E-24F2EC4E385C}|DataAccessLayer\\DataAccessLayer.csproj|d:\\file_of_keng\\n\u0103m 3\\hk2\\ltql\\ql_nhanvien\\dataaccesslayer\\chucvu_dao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29B21592-7D49-414E-B73E-24F2EC4E385C}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\chucvu_dao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E43D028-E02B-4339-B840-FEACDD7D1AAA}|DataTransferObject\\DataTransferObject.csproj|d:\\file_of_keng\\n\u0103m 3\\hk2\\ltql\\ql_nhanvien\\datatransferobject\\chucvu_dto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E43D028-E02B-4339-B840-FEACDD7D1AAA}|DataTransferObject\\DataTransferObject.csproj|solutionrelative:datatransferobject\\chucvu_dto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C7A9A10-E9FE-4695-A165-0DE173DD38E8}|BusinessLogicLayer\\BusinessLogicLayer.csproj|d:\\file_of_keng\\n\u0103m 3\\hk2\\ltql\\ql_nhanvien\\businesslogiclayer\\chucvu_bus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C7A9A10-E9FE-4695-A165-0DE173DD38E8}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\chucvu_bus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 289,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frm_dmNhanVien.cs",
+              "DocumentMoniker": "D:\\File_of_KenG\\N\u0102M 3\\Hk2\\LTQL\\QL_NhanVien\\PresentationLayer\\frm_dmNhanVien.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\frm_dmNhanVien.cs",
+              "ToolTip": "D:\\File_of_KenG\\N\u0102M 3\\Hk2\\LTQL\\QL_NhanVien\\PresentationLayer\\frm_dmNhanVien.cs",
+              "RelativeToolTip": "PresentationLayer\\frm_dmNhanVien.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T01:20:32.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NhanVien_DAO.cs",
+              "DocumentMoniker": "D:\\File_of_KenG\\N\u0102M 3\\Hk2\\LTQL\\QL_NhanVien\\DataAccessLayer\\NhanVien_DAO.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\NhanVien_DAO.cs",
+              "ToolTip": "D:\\File_of_KenG\\N\u0102M 3\\Hk2\\LTQL\\QL_NhanVien\\DataAccessLayer\\NhanVien_DAO.cs",
+              "RelativeToolTip": "DataAccessLayer\\NhanVien_DAO.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwBsAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-22T13:56:58.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NhanVien_DTO.cs",
+              "DocumentMoniker": "D:\\File_of_KenG\\N\u0102M 3\\Hk2\\LTQL\\QL_NhanVien\\DataTransferObject\\NhanVien_DTO.cs",
+              "RelativeDocumentMoniker": "DataTransferObject\\NhanVien_DTO.cs",
+              "ToolTip": "D:\\File_of_KenG\\N\u0102M 3\\Hk2\\LTQL\\QL_NhanVien\\DataTransferObject\\NhanVien_DTO.cs",
+              "RelativeToolTip": "DataTransferObject\\NhanVien_DTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-22T13:52:47.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frm_dmNhanVien.cs [Design]",
+              "DocumentMoniker": "D:\\File_of_KenG\\N\u0102M 3\\Hk2\\LTQL\\QL_NhanVien\\PresentationLayer\\frm_dmNhanVien.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\frm_dmNhanVien.cs",
+              "ToolTip": "D:\\File_of_KenG\\N\u0102M 3\\Hk2\\LTQL\\QL_NhanVien\\PresentationLayer\\frm_dmNhanVien.cs [Design]",
+              "RelativeToolTip": "PresentationLayer\\frm_dmNhanVien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-22T13:50:11.933Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ChucVu_BUS.cs",
+              "DocumentMoniker": "D:\\File_of_KenG\\N\u0102M 3\\Hk2\\LTQL\\QL_NhanVien\\BusinessLogicLayer\\ChucVu_BUS.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\ChucVu_BUS.cs",
+              "ToolTip": "D:\\File_of_KenG\\N\u0102M 3\\Hk2\\LTQL\\QL_NhanVien\\BusinessLogicLayer\\ChucVu_BUS.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\ChucVu_BUS.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-22T13:06:23.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ChucVu_DTO.cs",
+              "DocumentMoniker": "D:\\File_of_KenG\\N\u0102M 3\\Hk2\\LTQL\\QL_NhanVien\\DataTransferObject\\ChucVu_DTO.cs",
+              "RelativeDocumentMoniker": "DataTransferObject\\ChucVu_DTO.cs",
+              "ToolTip": "D:\\File_of_KenG\\N\u0102M 3\\Hk2\\LTQL\\QL_NhanVien\\DataTransferObject\\ChucVu_DTO.cs",
+              "RelativeToolTip": "DataTransferObject\\ChucVu_DTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-22T13:01:48.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ChucVu_DAO.cs",
+              "DocumentMoniker": "D:\\File_of_KenG\\N\u0102M 3\\Hk2\\LTQL\\QL_NhanVien\\DataAccessLayer\\ChucVu_DAO.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\ChucVu_DAO.cs",
+              "ToolTip": "D:\\File_of_KenG\\N\u0102M 3\\Hk2\\LTQL\\QL_NhanVien\\DataAccessLayer\\ChucVu_DAO.cs",
+              "RelativeToolTip": "DataAccessLayer\\ChucVu_DAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-22T12:57:12.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frm_dmChucVu.cs [Design]",
+              "DocumentMoniker": "D:\\File_of_KenG\\N\u0102M 3\\Hk2\\LTQL\\QL_NhanVien\\PresentationLayer\\frm_dmChucVu.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\frm_dmChucVu.cs",
+              "ToolTip": "D:\\File_of_KenG\\N\u0102M 3\\Hk2\\LTQL\\QL_NhanVien\\PresentationLayer\\frm_dmChucVu.cs [Design]",
+              "RelativeToolTip": "PresentationLayer\\frm_dmChucVu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-22T12:40:30.682Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
