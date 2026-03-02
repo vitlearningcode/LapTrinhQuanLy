@@ -1,24 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\KenG\\Ltql\\LapTrinhQuanLy\\QL_NhanVien\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{8A05B36A-8EC9-4517-8D7F-AA4B540DD114}|PresentationLayer\\PresentationLayer.csproj|d:\\keng\\ltql\\laptrinhquanly\\ql_nhanvien\\presentationlayer\\frm_dmnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A05B36A-8EC9-4517-8D7F-AA4B540DD114}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\frm_dmnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8A05B36A-8EC9-4517-8D7F-AA4B540DD114}|PresentationLayer\\PresentationLayer.csproj|d:\\keng\\ltql\\laptrinhquanly\\ql_nhanvien\\presentationlayer\\frm_dmnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{8A05B36A-8EC9-4517-8D7F-AA4B540DD114}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\frm_dmnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C7A9A10-E9FE-4695-A165-0DE173DD38E8}|BusinessLogicLayer\\BusinessLogicLayer.csproj|d:\\keng\\ltql\\laptrinhquanly\\ql_nhanvien\\businesslogiclayer\\nhanvien_bus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C7A9A10-E9FE-4695-A165-0DE173DD38E8}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\nhanvien_bus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{29B21592-7D49-414E-B73E-24F2EC4E385C}|DataAccessLayer\\DataAccessLayer.csproj|d:\\keng\\ltql\\laptrinhquanly\\ql_nhanvien\\dataaccesslayer\\nhanvien_dao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{29B21592-7D49-414E-B73E-24F2EC4E385C}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\nhanvien_dao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -26,34 +9,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": -1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "NhanVien_BUS.cs",
-              "DocumentMoniker": "D:\\KenG\\Ltql\\LapTrinhQuanLy\\QL_NhanVien\\BusinessLogicLayer\\NhanVien_BUS.cs",
-              "RelativeDocumentMoniker": "BusinessLogicLayer\\NhanVien_BUS.cs",
-              "ToolTip": "D:\\KenG\\Ltql\\LapTrinhQuanLy\\QL_NhanVien\\BusinessLogicLayer\\NhanVien_BUS.cs",
-              "RelativeToolTip": "BusinessLogicLayer\\NhanVien_BUS.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAA9wCMAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-02T03:41:58.641Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "NhanVien_DAO.cs",
-              "DocumentMoniker": "D:\\KenG\\Ltql\\LapTrinhQuanLy\\QL_NhanVien\\DataAccessLayer\\NhanVien_DAO.cs",
-              "RelativeDocumentMoniker": "DataAccessLayer\\NhanVien_DAO.cs",
-              "ToolTip": "D:\\KenG\\Ltql\\LapTrinhQuanLy\\QL_NhanVien\\DataAccessLayer\\NhanVien_DAO.cs",
-              "RelativeToolTip": "DataAccessLayer\\NhanVien_DAO.cs",
-              "ViewState": "AgIAAFAAAAAAAAAAAAAUwGcAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-02T03:33:27.782Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
@@ -65,31 +22,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:413422886:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "frm_dmNhanVien.cs",
-              "DocumentMoniker": "D:\\KenG\\Ltql\\LapTrinhQuanLy\\QL_NhanVien\\PresentationLayer\\frm_dmNhanVien.cs",
-              "RelativeDocumentMoniker": "PresentationLayer\\frm_dmNhanVien.cs",
-              "ToolTip": "D:\\KenG\\Ltql\\LapTrinhQuanLy\\QL_NhanVien\\PresentationLayer\\frm_dmNhanVien.cs",
-              "RelativeToolTip": "PresentationLayer\\frm_dmNhanVien.cs",
-              "ViewState": "AgIAAMcAAAAAAAAAAAAYwNYAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-02T03:22:37.361Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "frm_dmNhanVien.cs [Design]",
-              "DocumentMoniker": "D:\\KenG\\Ltql\\LapTrinhQuanLy\\QL_NhanVien\\PresentationLayer\\frm_dmNhanVien.cs",
-              "RelativeDocumentMoniker": "PresentationLayer\\frm_dmNhanVien.cs",
-              "ToolTip": "D:\\KenG\\Ltql\\LapTrinhQuanLy\\QL_NhanVien\\PresentationLayer\\frm_dmNhanVien.cs [Design]",
-              "RelativeToolTip": "PresentationLayer\\frm_dmNhanVien.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-02T03:15:58.226Z",
-              "EditorCaption": " [Design]"
             }
           ]
         },
