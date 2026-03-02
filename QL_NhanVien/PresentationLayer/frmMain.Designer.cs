@@ -36,6 +36,8 @@
             nghiệpVụToolStripMenuItem = new ToolStripMenuItem();
             báoCáoToolStripMenuItem = new ToolStripMenuItem();
             giúpĐỡToolStripMenuItem = new ToolStripMenuItem();
+            bảngLươngToolStripMenuItem = new ToolStripMenuItem();
+            quáTrìnhNângLươngToolStripMenuItem = new ToolStripMenuItem();
             menuStrip1.SuspendLayout();
             SuspendLayout();
             // 
@@ -79,6 +81,7 @@
             // 
             // nghiệpVụToolStripMenuItem
             // 
+            nghiệpVụToolStripMenuItem.DropDownItems.AddRange(new ToolStripItem[] { bảngLươngToolStripMenuItem, quáTrìnhNângLươngToolStripMenuItem });
             nghiệpVụToolStripMenuItem.Name = "nghiệpVụToolStripMenuItem";
             nghiệpVụToolStripMenuItem.Size = new Size(74, 22);
             nghiệpVụToolStripMenuItem.Text = "Nghiệp vụ";
@@ -95,6 +98,19 @@
             giúpĐỡToolStripMenuItem.Size = new Size(61, 22);
             giúpĐỡToolStripMenuItem.Text = "Giúp đỡ";
             // 
+            // bảngLươngToolStripMenuItem
+            // 
+            bảngLươngToolStripMenuItem.Name = "bảngLươngToolStripMenuItem";
+            bảngLươngToolStripMenuItem.Size = new Size(188, 22);
+            bảngLươngToolStripMenuItem.Text = "Bảng lương";
+            // 
+            // quáTrìnhNângLươngToolStripMenuItem
+            // 
+            quáTrìnhNângLươngToolStripMenuItem.Name = "quáTrìnhNângLươngToolStripMenuItem";
+            quáTrìnhNângLươngToolStripMenuItem.Size = new Size(188, 22);
+            quáTrìnhNângLươngToolStripMenuItem.Text = "Quá trình nâng lương";
+            quáTrìnhNângLươngToolStripMenuItem.Click += quáTrìnhNângLươngToolStripMenuItem_Click;
+            // 
             // frmMain
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
@@ -106,6 +122,7 @@
             Margin = new Padding(1);
             Name = "frmMain";
             Text = "frmMain";
+            WindowState = FormWindowState.Maximized;
             Load += frmMain_Load;
             menuStrip1.ResumeLayout(false);
             menuStrip1.PerformLayout();
@@ -123,5 +140,7 @@
         private ToolStripMenuItem giúpĐỡToolStripMenuItem;
         private ToolStripMenuItem chứcVụToolStripMenuItem;
         private ToolStripMenuItem nhânViênToolStripMenuItem;
+        private ToolStripMenuItem bảngLươngToolStripMenuItem;
+        private ToolStripMenuItem quáTrìnhNângLươngToolStripMenuItem;
     }
 }

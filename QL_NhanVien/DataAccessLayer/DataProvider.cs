@@ -10,7 +10,7 @@ namespace DataAccessLayer
     {
         public static SqlConnection MoKetNoi()
         {
-            string s = @"Data Source=MT0323\SQLEXPRESS;Initial Catalog=QLNV;Integrated Security=True;TrustServerCertificate=True";
+            string s = @"Data Source=.\SQLEXPRESS;Initial Catalog=QLNV;Integrated Security=True;TrustServerCertificate=True";
             SqlConnection ketnoi = new SqlConnection(s);
             ketnoi.Open();
             return ketnoi;

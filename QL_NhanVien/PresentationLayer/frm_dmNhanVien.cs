@@ -23,11 +23,13 @@ namespace PresentationLayer
             List<ChucVu_DTO> lstChucVu = ChucVu_BUS.LayChucVu();
             cboChucVu.DataSource = lstChucVu;
 
-            //displaymember là thuộc tính của cbo, nó sẽ hiển thị ên chức vụ thay vì mã chức dụ
+            //displaymember là thuộc tính ủa cbo, nóẽ hiển thị ên chức vụ thay vì mã chức dụ
             cboChucVu.DisplayMember = "STenCV";
 
-            //valuemember là thuộc tính của cbo, nó sẽ lấy giá trị mã chức vụ để uu vào db
+            //valuemember là thuộc tính của cbo, nó sẽ ấy giá trị mã chức vụ để uu vào db
             cboChucVu.ValueMember = "SMaCV";
+
+            HienThiDSNhanVien();
 
             // dodorooo dữ liệu vào dgv
             List<NhanVien_DTO> lstNhanVien = NhanVien_BUS.LayNhanVien();
@@ -35,14 +37,22 @@ namespace PresentationLayer
 
         }
 
-        //  1 là Thêm, 2 là Sửa
+        //  1 là Thêm, 2 là Sủaa
         int flag = 0;
 
         private void HienThiDSNhanVien()
         {
             List<NhanVien_DTO> lstNhanVien = NhanVien_BUS.LayNhanVien();
             dgvNhanVien.DataSource = lstNhanVien;
-            //dgvNhanVien.Columns[]
+
+            // Đổi tên cột hiển thị
+            dgvNhanVien.Columns["SMaNV"].HeaderText = "Mã nhân viên";
+            dgvNhanVien.Columns["SHoLot"].HeaderText = "Họ lót";
+            dgvNhanVien.Columns["STenNV"].HeaderText = "Tên nhân viên";
+            dgvNhanVien.Columns["SPhai"].HeaderText = "Giới tính";
+            dgvNhanVien.Columns["DtNgaySinh"].HeaderText = "Ngày sinh";
+            dgvNhanVien.Columns["SMaCV"].HeaderText = "Mã chức vụ";
+            dgvNhanVien.Columns["STenCV"].HeaderText = "Tên chức vụ";
         }
 
         private void btnThem_Click(object sender, EventArgs e)
@@ -75,6 +85,25 @@ namespace PresentationLayer
 
             if (flag == 1)
             {
+                if (txtMaNV.Text.Length > 6)
+                {
+                    MessageBox.Show("Lưu ý MaNV < 6 kí tự bạn ê!", "Lỗi", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    return;
+                }
+                else
+                if (NhanVien_BUS.KiemTraMaNV(txtMaNV.Text))
+                {
+                    MessageBox.Show("Mã nhân viên đã tồn tại. Vui lòng chọn mã khác!", "Lỗi", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    return;
+                }
+                else
+
+                    if (txtMaNV.Text.Trim() == "" || txtHoLot.Text.Trim() == "" || txtTen.Text.Trim() == "")
+                {
+                    MessageBox.Show("VUi lòng nhập đậy đủ ữ liệu bạn ê!", "Lỗi", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    return;
+                }
+                else
                 if (NhanVien_BUS.ThemNhanVien(nv))
                 {
                     MessageBox.Show("Thêm nhân viên thành công!", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Information);
@@ -82,7 +111,7 @@ namespace PresentationLayer
                 }
                 else
                 {
-                    MessageBox.Show("Thêm thất bại. Vui lòng kiểm tra lại mã nhân viên!", "Lỗi", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    MessageBox.Show("Thêm thất bại", "Lỗi", MessageBoxButtons.OK, MessageBoxIcon.Error);
                 }
             }
             else if (flag == 2)
@@ -131,7 +160,7 @@ namespace PresentationLayer
             Application.Exit();
         }
 
-      
+
 
         private void dgvNhanVien_CellClick(object sender, DataGridViewCellEventArgs e)
         {
@@ -165,6 +194,25 @@ namespace PresentationLayer
                 // SelectedValue sẽ khớp với ValueMember (SMaCV) mà bạn đã gán lúc Load form
                 cboChucVu.SelectedValue = row.Cells["SMaCV"].Value.ToString();
             }
+        }
+
+
+
+        private void splitContainer1_Panel1_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void btnTim_Click(object sender, EventArgs e)
+        {
+           // //string ten = txtTimten.Text.Trim();
+           //// List <NhanVien_DTO> lstnv = NhanVien_BUS.TimKiemNhanVien(ten);
+           // if ( lstnv == null)
+           // {
+           //     MessageBox.Show("Không tìm thấy", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Error);
+           // }
+
+           // dgvNhanVien.DataSource = lstnv;
         }
     }
 }
