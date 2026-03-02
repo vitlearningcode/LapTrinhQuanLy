@@ -13,5 +13,20 @@ namespace BusinessLogicLayer
             return NhanVien_DAO.LayNhanVien();
         }
 
+        public static bool ThemNhanVien(NhanVien_DTO nv)
+        {
+            return NhanVien_DAO.ThemNhanVien(nv);
+        }
+
+        public static bool SuaNhanVien(NhanVien_DTO nv)
+        {
+            return NhanVien_DAO.SuaNhanVien(nv);
+        }
+
+        public static bool XoaNhanVien(string maNV)
+        {
+            return NhanVien_DAO.XoaNhanVien(maNV);
+        }
+
     }
 }

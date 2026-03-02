@@ -71,17 +71,18 @@
             // btnThem
             // 
             btnThem.Location = new Point(566, 19);
-            btnThem.Margin = new Padding(1, 1, 1, 1);
+            btnThem.Margin = new Padding(1);
             btnThem.Name = "btnThem";
             btnThem.Size = new Size(77, 21);
             btnThem.TabIndex = 1;
             btnThem.Text = "Thêm";
             btnThem.UseVisualStyleBackColor = true;
+            btnThem.Click += btnThem_Click;
             // 
             // dtpNgaySinh
             // 
             dtpNgaySinh.Location = new Point(309, 83);
-            dtpNgaySinh.Margin = new Padding(1, 1, 1, 1);
+            dtpNgaySinh.Margin = new Padding(1);
             dtpNgaySinh.Name = "dtpNgaySinh";
             dtpNgaySinh.Size = new Size(235, 23);
             dtpNgaySinh.TabIndex = 2;
@@ -92,31 +93,34 @@
             dgvNhanVien.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             dgvNhanVien.Dock = DockStyle.Fill;
             dgvNhanVien.Location = new Point(1, 123);
-            dgvNhanVien.Margin = new Padding(1, 1, 1, 1);
+            dgvNhanVien.Margin = new Padding(1);
             dgvNhanVien.Name = "dgvNhanVien";
             dgvNhanVien.RowHeadersWidth = 102;
             dgvNhanVien.Size = new Size(767, 232);
             dgvNhanVien.TabIndex = 3;
+            dgvNhanVien.CellClick += dgvNhanVien_CellClick;
             // 
             // btnSua
             // 
             btnSua.Location = new Point(566, 51);
-            btnSua.Margin = new Padding(1, 1, 1, 1);
+            btnSua.Margin = new Padding(1);
             btnSua.Name = "btnSua";
             btnSua.Size = new Size(77, 21);
             btnSua.TabIndex = 1;
             btnSua.Text = "Sửa";
             btnSua.UseVisualStyleBackColor = true;
+            btnSua.Click += btnSua_Click;
             // 
             // btnXoa
             // 
             btnXoa.Location = new Point(566, 83);
-            btnXoa.Margin = new Padding(1, 1, 1, 1);
+            btnXoa.Margin = new Padding(1);
             btnXoa.Name = "btnXoa";
             btnXoa.Size = new Size(77, 21);
             btnXoa.TabIndex = 1;
             btnXoa.Text = "Xóa";
             btnXoa.UseVisualStyleBackColor = true;
+            btnXoa.Click += btnXoa_Click;
             // 
             // label2
             // 
@@ -161,7 +165,7 @@
             // txtMaNV
             // 
             txtMaNV.Location = new Point(81, 17);
-            txtMaNV.Margin = new Padding(1, 1, 1, 1);
+            txtMaNV.Margin = new Padding(1);
             txtMaNV.Name = "txtMaNV";
             txtMaNV.Size = new Size(105, 23);
             txtMaNV.TabIndex = 4;
@@ -169,7 +173,7 @@
             // txtHoLot
             // 
             txtHoLot.Location = new Point(81, 49);
-            txtHoLot.Margin = new Padding(1, 1, 1, 1);
+            txtHoLot.Margin = new Padding(1);
             txtHoLot.Name = "txtHoLot";
             txtHoLot.Size = new Size(210, 23);
             txtHoLot.TabIndex = 4;
@@ -177,7 +181,7 @@
             // txtTen
             // 
             txtTen.Location = new Point(309, 51);
-            txtTen.Margin = new Padding(1, 1, 1, 1);
+            txtTen.Margin = new Padding(1);
             txtTen.Name = "txtTen";
             txtTen.Size = new Size(235, 23);
             txtTen.TabIndex = 4;
@@ -186,7 +190,7 @@
             // 
             radNam.AutoSize = true;
             radNam.Location = new Point(81, 87);
-            radNam.Margin = new Padding(1, 1, 1, 1);
+            radNam.Margin = new Padding(1);
             radNam.Name = "radNam";
             radNam.Size = new Size(51, 19);
             radNam.TabIndex = 5;
@@ -198,7 +202,7 @@
             // 
             radNu.AutoSize = true;
             radNu.Location = new Point(158, 87);
-            radNu.Margin = new Padding(1, 1, 1, 1);
+            radNu.Margin = new Padding(1);
             radNu.Name = "radNu";
             radNu.Size = new Size(41, 19);
             radNu.TabIndex = 5;
@@ -210,7 +214,7 @@
             // 
             cboChucVu.FormattingEnabled = true;
             cboChucVu.Location = new Point(309, 20);
-            cboChucVu.Margin = new Padding(1, 1, 1, 1);
+            cboChucVu.Margin = new Padding(1);
             cboChucVu.Name = "cboChucVu";
             cboChucVu.Size = new Size(235, 23);
             cboChucVu.TabIndex = 6;
@@ -223,6 +227,7 @@
             btnLuu.TabIndex = 7;
             btnLuu.Text = "Lưu";
             btnLuu.UseVisualStyleBackColor = true;
+            btnLuu.Click += btnLuu_Click;
             // 
             // btnHuy
             // 
@@ -232,6 +237,7 @@
             btnHuy.TabIndex = 7;
             btnHuy.Text = "Hủy";
             btnHuy.UseVisualStyleBackColor = true;
+            btnHuy.Click += btnHuy_Click;
             // 
             // btnThoat
             // 
@@ -241,6 +247,7 @@
             btnThoat.TabIndex = 7;
             btnThoat.Text = "Thoát";
             btnThoat.UseVisualStyleBackColor = true;
+            btnThoat.Click += btnThoat_Click;
             // 
             // label6
             // 
@@ -312,7 +319,7 @@
             ClientSize = new Size(769, 388);
             Controls.Add(tableLayoutPanel1);
             Controls.Add(label6);
-            Margin = new Padding(1, 1, 1, 1);
+            Margin = new Padding(1);
             Name = "frm_dmNhanVien";
             StartPosition = FormStartPosition.CenterScreen;
             Text = "Form2";

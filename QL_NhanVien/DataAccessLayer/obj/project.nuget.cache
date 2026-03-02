@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1GbqO1S4zYc=",
+  "dgSpecHash": "ZxLOYXiTubA=",
   "success": true,
-  "projectFilePath": "D:\\KenG\\QL_NhanVien\\DataAccessLayer\\DataAccessLayer.csproj",
+  "projectFilePath": "D:\\KenG\\Ltql\\LapTrinhQuanLy\\QL_NhanVien\\DataAccessLayer\\DataAccessLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Lib\\.nuget\\packages\\runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
     "C:\\Users\\Lib\\.nuget\\packages\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",

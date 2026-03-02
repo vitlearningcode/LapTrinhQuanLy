@@ -10,11 +10,13 @@ namespace DataAccessLayer
     {
         public static SqlConnection MoKetNoi()
         {
-            string s = @"Data Source=lib-sv319;Initial Catalog=QLNV;Integrated Security=True;TrustServerCertificate=True";
+            string s = @"Data Source=MT0323\SQLEXPRESS;Initial Catalog=QLNV;Integrated Security=True;TrustServerCertificate=True";
             SqlConnection ketnoi = new SqlConnection(s);
             ketnoi.Open();
             return ketnoi;
         }
+
+        public static void DongKetNoi (SqlConnection ketnoi) => ketnoi.Close();
 
         //trả về bảng dữ liệu
         public static DataTable TruyVanLayDuLieu(string sTruyVan, SqlConnection KetNoi)
@@ -22,6 +24,7 @@ namespace DataAccessLayer
             SqlDataAdapter da = new SqlDataAdapter(sTruyVan, KetNoi);
             DataTable dt = new DataTable();
             da.Fill(dt);
+            DongKetNoi (KetNoi);
             return dt;
         }
 
@@ -39,6 +42,7 @@ namespace DataAccessLayer
                 return false;
             }
 
+            DongKetNoi(KetNoi);
 
         }
     }

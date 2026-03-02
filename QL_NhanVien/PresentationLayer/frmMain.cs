@@ -32,5 +32,10 @@ namespace PresentationLayer
             frmNV.MdiParent = this;
             frmNV.Show();
         }
+
+        private void frmMain_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

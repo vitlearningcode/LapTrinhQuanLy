@@ -37,5 +37,34 @@ namespace DataAccessLayer
             }
             return lstNhanVien;
         }
+
+        public static bool ThemNhanVien(NhanVien_DTO nv)
+        {
+            string sTruyVan = string.Format("INSERT INTO nhanvien(manv, holot, tennv, phai, ngaysinh, macv) VALUES('{0}', N'{1}', N'{2}', N'{3}', '{4}', '{5}')",
+                nv.SMaNV, nv.SHoLot, nv.STenNV, nv.SPhai, nv.DtNgaySinh.ToString("yyyy-MM-dd"), nv.SMaCV);
+            con = DataProvider.MoKetNoi();
+            bool kq = DataProvider.TruyVanKhongLayDuLieu(sTruyVan, con);
+            con.Close();
+            return kq;
+        }
+
+        public static bool SuaNhanVien(NhanVien_DTO nv)
+        {
+            string sTruyVan = string.Format("UPDATE nhanvien SET holot=N'{0}', tennv=N'{1}', phai=N'{2}', ngaysinh='{3}', macv='{4}' WHERE manv='{5}'",
+                nv.SHoLot, nv.STenNV, nv.SPhai, nv.DtNgaySinh.ToString("yyyy-MM-dd"), nv.SMaCV, nv.SMaNV);
+            con = DataProvider.MoKetNoi();
+            bool kq = DataProvider.TruyVanKhongLayDuLieu(sTruyVan, con);
+            con.Close();
+            return kq;
+        }
+
+        public static bool XoaNhanVien(string maNV)
+        {
+            string sTruyVan = string.Format("DELETE FROM nhanvien WHERE manv='{0}'", maNV);
+            con = DataProvider.MoKetNoi();
+            bool kq = DataProvider.TruyVanKhongLayDuLieu(sTruyVan, con);
+            con.Close();
+            return kq;
+        }
     }
 }
