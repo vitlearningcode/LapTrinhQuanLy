@@ -15,7 +15,7 @@ namespace DataAccessLayer
             ketnoi.Open();
             return ketnoi;
         }
-
+            
         public static void DongKetNoi (SqlConnection ketnoi) => ketnoi.Close();
 
         //trả về bảng dữ liệu
@@ -25,7 +25,7 @@ namespace DataAccessLayer
             DataTable dt = new DataTable();
             da.Fill(dt);
             DongKetNoi (KetNoi);
-            return dt;
+            return dt;  
         }
 
         //truy vấn không trả về dữ liệu

@@ -81,10 +81,7 @@
           "System.Data.SqlClient": "4.9.1"
         },
         "runtime": {
-          "BusinessLogicLayer.dll": {
-            "assemblyVersion": "1.0.0.0",
-            "fileVersion": "1.0.0.0"
-          }
+          "BusinessLogicLayer.dll": {}
         }
       },
       "DataAccessLayer/1.0.0": {
@@ -93,10 +90,7 @@
           "System.Data.SqlClient": "4.9.1"
         },
         "runtime": {
-          "DataAccessLayer.dll": {
-            "assemblyVersion": "1.0.0.0",
-            "fileVersion": "1.0.0.0"
-          }
+          "DataAccessLayer.dll": {}
         }
       },
       "DataTransferObject/1.0.0": {
@@ -104,10 +98,7 @@
           "System.Data.SqlClient": "4.9.1"
         },
         "runtime": {
-          "DataTransferObject.dll": {
-            "assemblyVersion": "1.0.0.0",
-            "fileVersion": "1.0.0.0"
-          }
+          "DataTransferObject.dll": {}
         }
       }
     }

@@ -32,6 +32,10 @@
             backgroundWorker1 = new System.ComponentModel.BackgroundWorker();
             tableLayoutPanel1 = new TableLayoutPanel();
             splitContainer1 = new SplitContainer();
+            groupBox2 = new GroupBox();
+            btnTim = new Button();
+            txtTimho = new TextBox();
+            txtTimten = new TextBox();
             groupBox1 = new GroupBox();
             cboChucVu = new ComboBox();
             dtpNgaySinh = new DateTimePicker();
@@ -57,6 +61,7 @@
             splitContainer1.Panel1.SuspendLayout();
             splitContainer1.Panel2.SuspendLayout();
             splitContainer1.SuspendLayout();
+            groupBox2.SuspendLayout();
             groupBox1.SuspendLayout();
             SuspendLayout();
             // 
@@ -97,6 +102,7 @@
             // 
             // splitContainer1.Panel1
             // 
+            splitContainer1.Panel1.Controls.Add(groupBox2);
             splitContainer1.Panel1.Controls.Add(groupBox1);
             // 
             // splitContainer1.Panel2
@@ -110,6 +116,45 @@
             splitContainer1.Size = new Size(763, 181);
             splitContainer1.SplitterDistance = 566;
             splitContainer1.TabIndex = 9;
+            // 
+            // groupBox2
+            // 
+            groupBox2.Controls.Add(btnTim);
+            groupBox2.Controls.Add(txtTimho);
+            groupBox2.Controls.Add(txtTimten);
+            groupBox2.Dock = DockStyle.Bottom;
+            groupBox2.Location = new Point(0, 110);
+            groupBox2.Name = "groupBox2";
+            groupBox2.Size = new Size(566, 71);
+            groupBox2.TabIndex = 9;
+            groupBox2.TabStop = false;
+            groupBox2.Text = "Tìm nhân viên";
+            // 
+            // btnTim
+            // 
+            btnTim.Location = new Point(469, 27);
+            btnTim.Name = "btnTim";
+            btnTim.Size = new Size(75, 23);
+            btnTim.TabIndex = 1;
+            btnTim.Text = "Tìm";
+            btnTim.UseVisualStyleBackColor = true;
+            btnTim.Click += btnTim_Click;
+            // 
+            // txtTimho
+            // 
+            txtTimho.Location = new Point(25, 27);
+            txtTimho.Name = "txtTimho";
+            txtTimho.PlaceholderText = "Nhập vào họ nhân viên cần tìm";
+            txtTimho.Size = new Size(205, 23);
+            txtTimho.TabIndex = 0;
+            // 
+            // txtTimten
+            // 
+            txtTimten.Location = new Point(253, 27);
+            txtTimten.Name = "txtTimten";
+            txtTimten.PlaceholderText = "Nhập vào tên nhân viên cần tìm";
+            txtTimten.Size = new Size(205, 23);
+            txtTimten.TabIndex = 0;
             // 
             // groupBox1
             // 
@@ -330,6 +375,8 @@
             splitContainer1.Panel2.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)splitContainer1).EndInit();
             splitContainer1.ResumeLayout(false);
+            groupBox2.ResumeLayout(false);
+            groupBox2.PerformLayout();
             groupBox1.ResumeLayout(false);
             groupBox1.PerformLayout();
             ResumeLayout(false);
@@ -359,5 +406,9 @@
         private Button btnHuy;
         private Button btnSua;
         private Button btnLuu;
+        private GroupBox groupBox2;
+        private Button btnTim;
+        private TextBox txtTimten;
+        private TextBox txtTimho;
     }
 }

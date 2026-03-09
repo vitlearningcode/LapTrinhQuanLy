@@ -1,16 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\KenG\\Ltql\\LapTrinhQuanLy\\QL_NhanVien\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{2C7A9A10-E9FE-4695-A165-0DE173DD38E8}|BusinessLogicLayer\\BusinessLogicLayer.csproj|d:\\keng\\ltql\\laptrinhquanly\\ql_nhanvien\\businesslogiclayer\\quatrinhluong_bus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C7A9A10-E9FE-4695-A165-0DE173DD38E8}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\quatrinhluong_bus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{29B21592-7D49-414E-B73E-24F2EC4E385C}|DataAccessLayer\\DataAccessLayer.csproj|d:\\keng\\ltql\\laptrinhquanly\\ql_nhanvien\\dataaccesslayer\\quatrinhluong_dao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{29B21592-7D49-414E-B73E-24F2EC4E385C}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\quatrinhluong_dao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -18,7 +9,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -31,32 +22,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:413422886:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "QuaTrinhLuong_BUS.cs",
-              "DocumentMoniker": "D:\\KenG\\Ltql\\LapTrinhQuanLy\\QL_NhanVien\\BusinessLogicLayer\\QuaTrinhLuong_BUS.cs",
-              "RelativeDocumentMoniker": "BusinessLogicLayer\\QuaTrinhLuong_BUS.cs",
-              "ToolTip": "D:\\KenG\\Ltql\\LapTrinhQuanLy\\QL_NhanVien\\BusinessLogicLayer\\QuaTrinhLuong_BUS.cs",
-              "RelativeToolTip": "BusinessLogicLayer\\QuaTrinhLuong_BUS.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-02T04:29:08.253Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "QuaTrinhLuong_DAO.cs",
-              "DocumentMoniker": "D:\\KenG\\Ltql\\LapTrinhQuanLy\\QL_NhanVien\\DataAccessLayer\\QuaTrinhLuong_DAO.cs",
-              "RelativeDocumentMoniker": "DataAccessLayer\\QuaTrinhLuong_DAO.cs",
-              "ToolTip": "D:\\KenG\\Ltql\\LapTrinhQuanLy\\QL_NhanVien\\DataAccessLayer\\QuaTrinhLuong_DAO.cs",
-              "RelativeToolTip": "DataAccessLayer\\QuaTrinhLuong_DAO.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAgwCsAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-02T04:19:29.468Z",
-              "EditorCaption": ""
             }
           ]
         },

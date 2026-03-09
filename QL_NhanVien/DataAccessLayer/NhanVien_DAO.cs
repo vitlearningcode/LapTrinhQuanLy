@@ -106,11 +106,11 @@ namespace DataAccessLayer
         }
         public static List<NhanVien_DTO> TimKiemNhanVienHoten(string ho, string ten)
         {
-            string sTruyVan = string.Format(@"SELECT nv.manv, nv.holot, nv.tennv, nv.phai, nv.ngaysinh, nv.macv, cv.tencv 
+            string sTruyVan = string.Format(@"select nv.manv, nv.holot, nv.tennv, nv.phai, nv.ngaysinh, nv.macv, cv.tencv 
                                       FROM nhanvien nv, chucvu cv 
-                                      WHERE nv.macv = cv.macv 
-                                      AND nv.holot LIKE N'%{0}%' 
-                                      AND nv.tennv LIKE N'%{1}%'", ho, ten);
+                                      where nv.macv = cv.macv 
+                                      and nv.holot LIKE N'%{0}%' 
+                                      and nv.tennv LIKE N'%{1}%'", ho, ten);
 
             con = DataProvider.MoKetNoi();
             DataTable dt = DataProvider.TruyVanLayDuLieu(sTruyVan, con);

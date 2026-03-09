@@ -37,3 +37,16 @@ D:\KenG\Ltql\LapTrinhQuanLy\QL_NhanVien\DataTransferObject\obj\Debug\net8.0-wind
 D:\KenG\Ltql\LapTrinhQuanLy\QL_NhanVien\DataTransferObject\obj\Debug\net8.0-windows\refint\DataTransferObject.dll
 D:\KenG\Ltql\LapTrinhQuanLy\QL_NhanVien\DataTransferObject\obj\Debug\net8.0-windows\DataTransferObject.pdb
 D:\KenG\Ltql\LapTrinhQuanLy\QL_NhanVien\DataTransferObject\obj\Debug\net8.0-windows\ref\DataTransferObject.dll
+Z:\dth235629\LapTrinhQuanLy\QL_NhanVien\DataTransferObject\bin\Debug\net8.0-windows\DataTransferObject.deps.json
+Z:\dth235629\LapTrinhQuanLy\QL_NhanVien\DataTransferObject\bin\Debug\net8.0-windows\DataTransferObject.dll
+Z:\dth235629\LapTrinhQuanLy\QL_NhanVien\DataTransferObject\bin\Debug\net8.0-windows\DataTransferObject.pdb
+Z:\dth235629\LapTrinhQuanLy\QL_NhanVien\DataTransferObject\obj\Debug\net8.0-windows\DataTransferObject.csproj.AssemblyReference.cache
+Z:\dth235629\LapTrinhQuanLy\QL_NhanVien\DataTransferObject\obj\Debug\net8.0-windows\DataTransferObject.GeneratedMSBuildEditorConfig.editorconfig
+Z:\dth235629\LapTrinhQuanLy\QL_NhanVien\DataTransferObject\obj\Debug\net8.0-windows\DataTransferObject.AssemblyInfoInputs.cache
+Z:\dth235629\LapTrinhQuanLy\QL_NhanVien\DataTransferObject\obj\Debug\net8.0-windows\DataTransferObject.AssemblyInfo.cs
+Z:\dth235629\LapTrinhQuanLy\QL_NhanVien\DataTransferObject\obj\Debug\net8.0-windows\DataTransferObject.csproj.CoreCompileInputs.cache
+Z:\dth235629\LapTrinhQuanLy\QL_NhanVien\DataTransferObject\obj\Debug\net8.0-windows\DataTransferObject.sourcelink.json
+Z:\dth235629\LapTrinhQuanLy\QL_NhanVien\DataTransferObject\obj\Debug\net8.0-windows\DataTransferObject.dll
+Z:\dth235629\LapTrinhQuanLy\QL_NhanVien\DataTransferObject\obj\Debug\net8.0-windows\refint\DataTransferObject.dll
+Z:\dth235629\LapTrinhQuanLy\QL_NhanVien\DataTransferObject\obj\Debug\net8.0-windows\DataTransferObject.pdb
+Z:\dth235629\LapTrinhQuanLy\QL_NhanVien\DataTransferObject\obj\Debug\net8.0-windows\ref\DataTransferObject.dll

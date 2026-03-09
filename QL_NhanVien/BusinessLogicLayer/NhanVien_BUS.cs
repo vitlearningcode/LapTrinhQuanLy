@@ -13,9 +13,32 @@ namespace BusinessLogicLayer
             return NhanVien_DAO.LayNhanVien();
         }
 
-        public static bool ThemNhanVien(NhanVien_DTO nv)
+        public static bool ThemNhanVien(NhanVien_DTO nv, out string mess)
         {
-            return NhanVien_DAO.ThemNhanVien(nv);
+            if (nv.SMaNV.Length != 6)
+            {
+                mess = "Lưu ý MaNV phai 6 kí tự bạn ê!";
+                return false;
+            }
+            else
+                    if (KiemTraMaNV(nv.SMaNV))
+            {
+                mess = "Mã nhân viên đã tồn tại. Vui lòng chọn mã khác!";
+                return false;
+            }
+            else
+
+                    if (nv.SMaNV.Trim() == "" || nv.SHoLot.Trim() == "" || nv.STenNV.Trim() == "")
+            {
+                mess = "VUi lòng nhập đậy đủ ữ liệu bạn ê!";
+                return false;
+            }
+            else
+            {
+                mess = "them thanh cong";
+                return NhanVien_DAO.ThemNhanVien(nv);
+            }
+               
         }
 
         public static bool KiemTraMaNV(string maNV)
@@ -23,9 +46,18 @@ namespace BusinessLogicLayer
             return NhanVien_DAO.KiemTraMaNV(maNV);
         }
 
-        public static bool SuaNhanVien(NhanVien_DTO nv)
+        public static bool SuaNhanVien(NhanVien_DTO nv, out string mess)
         {
-            return NhanVien_DAO.SuaNhanVien(nv);
+            if ( nv.SHoLot.Trim() == "" || nv.STenNV.Trim() == "")
+            {
+                mess = "VUi lòng nhập đậy đủ ữ liệu bạn ê!";
+                return false;
+            }
+            else
+            {
+                mess = "sửa thanh cong";
+                return NhanVien_DAO.SuaNhanVien(nv);
+            }           
         }
 
         public static bool XoaNhanVien(string maNV)

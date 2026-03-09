@@ -65,7 +65,12 @@ namespace PresentationLayer
 
         private void quáTrìnhNângLươngToolStripMenuItem_Click(object sender, EventArgs e)
         {
-
+            if (!CheckExistForm("frm_dmQuaTrinhLuong"))
+            {
+                frm_dmQuaTrinhLuong frmQTL = new frm_dmQuaTrinhLuong();
+                frmQTL.MdiParent = this;
+                frmQTL.Show();
+            }
         }
     }
 }
